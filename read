@@ -27,13 +27,4 @@ The dashboard queries the following NYC Open Data datasets:
 
 ---
 
-## Getting Started
-
-Because the application is entirely client-side, no build steps, Node.js runtime, or server configurations are necessary.
-
-### Local Run
-
-1. Clone or download the repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/<repo-name>.git
-   cd <repo-name>
+Demo: https://ryrahman.github.io/NYC-Civil-Service-Dashboard/
